@@ -3,7 +3,7 @@ By Oluchi Ohanado | CAPM® Certified Project Manager
 📍 Salzburg, Austria | 📧 oluchicindyohanado@gmail.com | 🔗 www.linkedin.com/in/ohanadooluchicindy
 ---
 About This Portfolio
-This repository contains a full project management portfolio simulating the planning and launch of WordRoot — a German language learning platform that helps learners understand word families, prefixes and variations through daily practice and human conversation.
+This repository contains a full project management portfolio simulating the planning and launch of WordRoot: a German language learning platform that helps learners understand word families, prefixes and variations through daily practice and human conversation.
 This portfolio was developed to demonstrate practical application of CAPM® certified project management knowledge across all core PM knowledge areas.
 ---
 About WordRoot
