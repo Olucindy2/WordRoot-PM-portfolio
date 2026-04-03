@@ -47,9 +47,7 @@ Portfolio Documents
 05	Gantt Chart	Full 26-week project schedule with all phases and tasks	View →
 06	Work Breakdown Structure	45 tasks broken down across 6 phases with owners and dependencies	View →
 07	Lessons Learned	Simulated project retrospective with recommendations	View →
-08	Risk Register	(Coming soon)	—
-09	Communication Plan	(Coming soon)	—
-10	Competitor Analysis	(Coming soon)	—
+
 ---
 Project Scope Summary
 ✅ In Scope
